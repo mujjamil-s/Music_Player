@@ -1,0 +1,12 @@
+package com.example.androidinterview;
+
+import android.app.ActionBar;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
